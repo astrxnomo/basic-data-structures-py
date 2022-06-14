@@ -1,5 +1,4 @@
 class Queue:
-    """Queue implementation as a list"""
 
     def __init__(self):
         """Create new queue"""
