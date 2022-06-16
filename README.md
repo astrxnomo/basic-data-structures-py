@@ -2,7 +2,10 @@
 
 ## About
 
-Main existing data structures and how to perform the most common operations with them, providing the necessary knowledge for their use and application in software development, so that it can implement different abstract types of data, and thus, choose the most appropriate according to the needs of the problem to be solved.
+* To understand the abstract data types stack, queue, deque, and list.
+* To be able to implement the ADTs stack, queue, and deque using Python lists.
+* To understand the performance of the implementations of basic linear data structures.
+* To be able to recognize problem properties where stacks, queues, and deques are appropriate data structures.
 
 > Go to [wiki](https://github.com/astrxnomo/data-structures-using-python/wiki#why-study-data-structures-and-abstract-data-types)
 
