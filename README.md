@@ -1,4 +1,4 @@
-# Data Structures using Python
+# Basic Data Structures using Python
 
 ## About
 
