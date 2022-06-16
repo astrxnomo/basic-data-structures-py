@@ -14,3 +14,7 @@ Main existing data structures and how to perform the most common operations with
      - [What Is a Queue?](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#what-is-a-queue)
      - [The Queue Abstract Data Type](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#the-queue-abstract-data-type)
      - [Implementing a Queue in Python](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#implementing-a-queue-in-python)
+  - [Deque](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#deque)
+     - [What is a Deque?](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#what-is-a-deque)
+     - [The Deque Abstract Data Type](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#the-deque-abstract-data-type)
+     - [Implementing a Deque in Python](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#implementing-a-deque-in-python)
