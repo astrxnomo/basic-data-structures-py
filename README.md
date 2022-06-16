@@ -9,9 +9,7 @@
 
 > Go to [wiki](https://github.com/astrxnomo/data-structures-using-python/wiki#why-study-data-structures-and-abstract-data-types)
 
-## Home
-  - [Why Study Data Structures and Abstract Data Types?](https://github.com/astrxnomo/data-structures-using-python/wiki#why-study-data-structures-and-abstract-data-types)
-## Basic Data Structures
+## [Basic Data Structures](https://github.com/astrxnomo/basic-data-structures-py-en/wiki)
   - [Stack](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#stack)
      - [What is a Stack?](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#what-is-a-stack)
      - [The Stack Abstract Data Type](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#the-stack-abstract-data-type)
@@ -24,3 +22,7 @@
      - [What is a Deque?](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#what-is-a-deque)
      - [The Deque Abstract Data Type](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#the-deque-abstract-data-type)
      - [Implementing a Deque in Python](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#implementing-a-deque-in-python)
+  - [Lists](https://github.com/astrxnomo/basic-data-structures-py-en/wiki/Basic-Data-Structures#lists)
+     - [Introduction to Lists](https://github.com/astrxnomo/basic-data-structures-py-en/wiki/Basic-Data-Structures#introduction-to-lists)
+     - [The Unordered List Abstract Data Type](https://github.com/astrxnomo/basic-data-structures-py-en/wiki/Basic-Data-Structures#the-unordered-list-abstract-data-type)
+     - [The Ordered List](https://github.com/astrxnomo/basic-data-structures-py-en/wiki/Basic-Data-Structures#the-ordered-list)
