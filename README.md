@@ -1,9 +1,9 @@
 # Data Structures using Python
 Main existing data structures and how to perform the most common operations with them, providing the necessary knowledge for their use and application in software development, so that it can implement different abstract types of data, and thus, choose the most appropriate according to the needs of the problem to be solved.
 
-## [Home](https://github.com/astrxnomo/data-structures-using-python/wiki)
+## Home
   - [Why Study Data Structures and Abstract Data Types?](https://github.com/astrxnomo/data-structures-using-python/wiki#why-study-data-structures-and-abstract-data-types)
-## [Basic Data Structures](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures)
+## Basic Data Structures
   - [Stack](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#stack)
      - [What is a Stack?](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#what-is-a-stack)
      - [The Stack Abstract Data Type](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#the-stack-abstract-data-type)
