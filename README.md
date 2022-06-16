@@ -28,7 +28,7 @@
      - [The Ordered List](https://github.com/astrxnomo/basic-data-structures-py-en/wiki#the-ordered-list)
 
 ## Acknowledgements
-This wiki is a basic introduction to some of the most important data structures in computer science.
+This repository is a basic introduction to some of the most important data structures in computer science.
 
 The code examples are in Python, and the explanations assume that you are a software engineer.
 
