@@ -32,5 +32,5 @@ This repository is a basic introduction to some of the most important data struc
 
 The code examples are in Python, and the explanations assume that you are a software engineer.
 
-I should mention that this wiki is a fork of Problem Solving with Algorithms and Data Structures using Python, generously Creative Commons licensed from its authors Brad Miller and David Ranum. I chose to adapt their book based on my experience as a student.
+This repository is a fork of Problem Solving with Algorithms and Data Structures using Python, generously Creative Commons licensed from its authors Brad Miller and David Ranum. I chose to adapt their book based on my experience as a student.
 
