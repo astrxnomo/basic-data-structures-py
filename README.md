@@ -26,3 +26,11 @@
      - [Introduction to Lists](https://github.com/astrxnomo/basic-data-structures-py-en/wiki/Basic-Data-Structures#introduction-to-lists)
      - [The Unordered List Abstract Data Type](https://github.com/astrxnomo/basic-data-structures-py-en/wiki/Basic-Data-Structures#the-unordered-list-abstract-data-type)
      - [The Ordered List](https://github.com/astrxnomo/basic-data-structures-py-en/wiki/Basic-Data-Structures#the-ordered-list)
+
+# Acknowledgements
+This wiki is a basic introduction to some of the most important data structures in computer science.
+
+The code examples are in Python, and the explanations assume that you are a software engineer.
+
+I should mention that this wiki is a fork of Problem Solving with Algorithms and Data Structures using Python, generously Creative Commons licensed from its authors Brad Miller and David Ranum. I chose to adapt their book based on my experience as a student.
+
