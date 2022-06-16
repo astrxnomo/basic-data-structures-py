@@ -2,7 +2,7 @@
 
 ## About
 
-* To understand the abstract data types stack, queue, deque, and list.
+* To understand the abstract data types stack, queue, deque, and lists.
 * To be able to implement the ADTs stack, queue, and deque using Python lists.
 * To understand the performance of the implementations of basic linear data structures.
 * To be able to recognize problem properties where stacks, queues, and deques are appropriate data structures.
