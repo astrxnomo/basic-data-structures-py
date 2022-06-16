@@ -9,8 +9,6 @@
 
 > Go to [wiki](https://github.com/astrxnomo/data-structures-using-python/wiki#why-study-data-structures-and-abstract-data-types)
 
-## Home
-  - [Why Study Data Structures and Abstract Data Types?](https://github.com/astrxnomo/data-structures-using-python/wiki#why-study-data-structures-and-abstract-data-types)
 ## Basic Data Structures
   - [Stack](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#stack)
      - [What is a Stack?](https://github.com/astrxnomo/data-structures-using-python/wiki/Basic-Data-Structures#what-is-a-stack)
