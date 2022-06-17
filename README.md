@@ -1,5 +1,4 @@
-
-# Go to [wiki](https://github.com/astrxnomo/data-structures-using-python/wiki#why-study-data-structures-and-abstract-data-types)
+# [Basic Data Structures](https://github.com/astrxnomo/basic-data-structures-py/wiki)
 
 ## Objetives
 
