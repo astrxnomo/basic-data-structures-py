@@ -1,4 +1,4 @@
-# [Basic Data Structures](https://github.com/astrxnomo/basic-data-structures-py/wiki)
+# Basic Data Structures | [Wiki](https://github.com/astrxnomo/basic-data-structures-py/wiki)
 
 ## Objetives
 
